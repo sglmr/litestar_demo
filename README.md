@@ -1,0 +1,3 @@
+- `litestar[standard]` installation includes uvicorn
+- Use `litestar run --reload` to start the server in reload mode which reloads the app each time you make changes to the file.
+- check out the schema by visiting: http://127.0.0.1:8000/schema/swagger
